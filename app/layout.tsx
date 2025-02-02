@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
-        <meta name="theme-color" content="#3B82F6" />
+        <meta name="theme-color"/>
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body className={`${pacifico.className} cursor-none`}>
