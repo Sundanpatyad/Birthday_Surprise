@@ -158,7 +158,7 @@ export default function BirthdayPage() {
   ]
 
   return (
-    <div className="h-screen bg-gradient-to-br from-pink-400 via-purple-400 to-indigo-300 flex flex-col items-center justify-center text-white relative">
+    <div className="h-screen overflow-hidden bg-gradient-to-br from-pink-400 via-purple-400 to-indigo-300 flex flex-col items-center justify-center text-white relative">
       <FloatingHearts />
       
       <div className="absolute inset-0 flex items-center justify-center">
